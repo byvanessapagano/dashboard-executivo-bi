@@ -15,6 +15,7 @@ só em Faturas) e quebras por unidade, categoria e status.
 ### Demo online:
 
 https://byvanessapagano.github.io/dashboard-executivo-bi/saida/dados_cruzados.html
+
 https://byvanessapagano.github.io/dashboard-executivo-bi/saida/dashboard_executivo.html
 
 ## Como Desenvolvi
